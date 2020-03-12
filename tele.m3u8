@@ -20,9 +20,6 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic1
 #EXTINF:0,Dubai
 #EXTGRP:ArabicTV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
-#EXTINF:0,irib3
-#EXTGRP:Sport
-http://cdn1.live.irib.ir:1935/channel-live/smil:tv3/playlist.m3u8?v=1594346692
 #EXTINF:0,National geographic AD2
 #EXTGRP:Educational
 http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8?v=2967132531
