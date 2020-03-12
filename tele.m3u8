@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:0,Saudisunnah
+#EXTGRP:Islamic
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_250000=3-mp4a_41200=1.m3u8
+#EXTINF:0,Qutami Quran
+#EXTGRP:Islamic
+http://ayat.live.net.sa:1935/live/qotami/playlist.m3u8
+#EXTINF:0,Quran Kareem
+#EXTGRP:Islamic
+http://nimplus6eu1.giniko.com/saudiquran/saudiquran/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjAgOTo0NToyNSBQTSZoYXNoX3ZhbHVlPStLOUo3cjZaa09ZR1F4VXpicnAvWXc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
+#EXTINF:0,Quran Kareem2
+#EXTGRP:Islamic
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8?&amp;site=watcharab.com
+#EXTINF:0,SaudiSunnah3
+#EXTGRP:Islamic
+http://38.99.146.36:7777/AlSunnah_HD.m3u8?user=1578419060&amp;session=2b0e7b351d83ffa8da16c10ea2576937d80c0b3b95b46d18cef55e39f6d1751d
+#EXTINF:0,Iqraa
+#EXTGRP:Islamic
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic1
+#EXTINF:0,Dubai
+#EXTGRP:ArabicTV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
+#EXTINF:0,irib3
+#EXTGRP:Sport
+http://cdn1.live.irib.ir:1935/channel-live/smil:tv3/playlist.m3u8?v=1594346692
+#EXTINF:0,National geographic AD2
+#EXTGRP:Educational
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8?v=2967132531
+#EXTINF:0,National geographic AD
+#EXTGRP:Educational
+http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?session=a59adb1fdbb4c53e2af1cd9fb968736cd9e16bfa73568bf13b07ede6a0f7645ca299017ce29bf1aa&amp;hlsid=HTTP_ID_1476942&amp;starttime=20200117T190943.378144
+#EXTINF:0,majidtv
+#EXTGRP:Kids
+http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
+#EXTINF:0,TRT çocuk
+#EXTGRP:Kids
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8?v=1320392689
+#EXTINF:0,Aljazeera
+#EXTGRP:News
+https://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic_hd
+#EXTINF:0,orient_2
+#EXTGRP:News
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b925000.m3u8?v=1594346692
+#EXTINF:0,Halap Today
+#EXTGRP:News
+http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1594346692
+#EXTINF:0,Jisr
+#EXTGRP:News
+http://62.210.141.179:8000/live/ibrahim/123456/219.m3u8?v=1594346692
+#EXTINF:0,NTV
+#EXTGRP:Turk
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:0,FOX
+#EXTGRP:Turk
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1584078410&amp;st=pspaJwUTdg_sXRz5ArjEbg
+#EXTINF:0,TRT Haber HD
+#EXTGRP:Turk
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT Arapça
+#EXTGRP:Turk
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+#EXTINF:0,TRT bir
+#EXTGRP:Turk
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT iki
+#EXTGRP:Turk
+https://tv-trt2-ts.live.trt.com.tr/master_1080.m3u8
+#EXTINF:0,TRT Turk
+#EXTGRP:Turk
+https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0,TRT World
+#EXTGRP:Turk
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:0,TRT Belgesel
+#EXTGRP:Turk
+https://tv-trtbelgesel.live.trt.com.tr/master_1080.m3u8
+#EXTINF:0,TRT Spor
+#EXTGRP:Turk
+https://tv-trtspor1.live.trt.com.tr/master_1080.m3u8
+#EXTINF:0,TRT Spor2
+#EXTGRP:Turk
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,CNN Turk
+#EXTGRP:Turk
+https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
