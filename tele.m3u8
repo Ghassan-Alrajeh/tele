@@ -19,7 +19,8 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:0,Nat Geographic
 #EXTGRP:Educational TV
-http://www.elahmad.com/loading.mp4?id=geographic#http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
+http://www.elahmad.com/loading.mp4?id=geographic
+#http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
 #EXTINF:0,TRT çocuk
 #EXTGRP:Kids
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
@@ -47,9 +48,6 @@ http://62.210.141.179:8000/live/ibrahim/123456/219.m3u8?v=1594346692
 #EXTINF:0,BBC Arabic
 #EXTGRP:News
 https://vs-dash-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/dash/bbc_arabic_tv-video=2812032-412705427.m4s
-#EXTINF:0,CNBC Arabic
-#EXTGRP:News
-https://live.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8?nimblesessionid=70797446
 #EXTINF:0,Sky News Arabia
 #EXTGRP:News
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
@@ -92,15 +90,9 @@ https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,CNN Turk
 #EXTGRP:Turk
 https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:0,kanal7
-#EXTGRP:Turk
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
-#EXTINF:0,BBC Arabic
-#EXTGRP:Radio
-https://as-dash-ww-live.akamaized.net/pool_904/live/ww/bbc_arabic_radio/bbc_arabic_radio.isml/dash/bbc_arabic_radio-audio=96000-247623149.m4s
 #EXTINF:0,Mega FM
 #EXTGRP:Radio
 https://audiostreaming.twesto.com/megafm214
