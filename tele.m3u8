@@ -31,7 +31,7 @@ http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?session=a59adb1fdbb4c53e
 http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
 #EXTINF:0,TRT çocuk
 #EXTGRP:Kids
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8?v=1320392689
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,Aljazeera
 #EXTGRP:News
 https://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic_hd
@@ -47,33 +47,36 @@ http://62.210.141.179:8000/live/ibrahim/123456/219.m3u8?v=1594346692
 #EXTINF:0,NTV
 #EXTGRP:Turk
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:0,Star
+#EXTGRP:Turk
+https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:0,FOX
 #EXTGRP:Turk
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1584078410&amp;st=pspaJwUTdg_sXRz5ArjEbg
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:0,TRT Haber HD
 #EXTGRP:Turk
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT Arapça
 #EXTGRP:Turk
-https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT bir
 #EXTGRP:Turk
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT iki
 #EXTGRP:Turk
-https://tv-trt2-ts.live.trt.com.tr/master_1080.m3u8
+https://tv-trt2-ts.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT Turk
 #EXTGRP:Turk
-https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:Turk
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT Belgesel
 #EXTGRP:Turk
-https://tv-trtbelgesel.live.trt.com.tr/master_1080.m3u8
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT Spor
 #EXTGRP:Turk
-https://tv-trtspor1.live.trt.com.tr/master_1080.m3u8
+https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT Spor2
 #EXTGRP:Turk
 https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
