@@ -19,7 +19,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:0,Nat Geographic
 #EXTGRP:Educational TV
-http://www.elahmad.com/loading.mp4?id=geographic
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/03.m3u8
 #EXTINF:0,TRT çocuk
 #EXTGRP:Kids
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
