@@ -20,6 +20,15 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.
 #EXTINF:0,Nat Geographic
 #EXTGRP:Educational TV
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/03.m3u8
+#EXTINF:0,EBA ilk-okul TV
+#EXTGRP:Educational TV
+https://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,EBA Orta-okul TV
+#EXTGRP:Educational TV
+https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,EBA Lise TV
+#EXTGRP:Educational TV
+https://tv-e-okul02.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT çocuk
 #EXTGRP:Kids
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
@@ -47,9 +56,15 @@ https://vs-dash-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_a
 #EXTINF:0,Sky News Arabia
 #EXTGRP:News
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0,CNN Turk
+#EXTGRP:Turk
+https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:0,NTV
 #EXTGRP:Turk
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:0,360 TV
+#EXTGRP:Turk
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 #EXTINF:0,Star
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/chunklist_b3128000.m3u8
@@ -83,12 +98,6 @@ https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT Spor2
 #EXTGRP:Turk
 https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
-#EXTINF:0,CNN Turk
-#EXTGRP:Turk
-https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:0,360 TV
-#EXTGRP:Turk
-https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 #EXTINF:0,Mega FM
 #EXTGRP:Radio
 https://audiostreaming.twesto.com/megafm214
