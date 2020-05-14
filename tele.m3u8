@@ -11,6 +11,9 @@ http://m.live.net.sa:1935/live/quran/gmswf.m3u8?&amp;site=watcharab.com
 #EXTINF:0,Iqraa
 #EXTGRP:Islamic
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic1
+#EXTINF:0,Risala
+#EXTGRP:Islamic
+https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
 #EXTINF:0,Dubai
 #EXTGRP:ArabicTV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
