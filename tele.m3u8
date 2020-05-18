@@ -16,7 +16,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic1
 https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
 #EXTINF:0,Syria Drama
 #EXTGRP:ArabicTV
-http://livecdnh2.tvanywhere.ae/hls/syria_drama/index.m3u8
+http://livecdnh2.tvanywhere.ae/hls/syria_drama/03.m3u8
 #EXTINF:0,Syria Satellite Channel
 #EXTGRP:ArabicTV
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
@@ -37,7 +37,7 @@ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunk
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:0,CBC Sofra
 #EXTGRP:ArabicTV
-http://livecdnh2.tvanywhere.ae/hls/cbc_sof/index.m3u8
+http://livecdnh2.tvanywhere.ae/hls/cbc_sof/03.m3u8
 #EXTINF:0,Nat Geographic
 #EXTGRP:Educational TV
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/03.m3u8
@@ -94,7 +94,7 @@ https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:0,BBC Arabic (Backup)
 #EXTGRP:News
-http://livecdnh2.tvanywhere.ae/hls/bbc_ar/index.m3u8
+http://livecdnh2.tvanywhere.ae/hls/bbc_ar/03.m3u8
 #EXTINF:0,Aljazeera En
 #EXTGRP:News
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
