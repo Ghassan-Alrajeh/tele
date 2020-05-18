@@ -70,7 +70,7 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
 http://livecdnh2.tvanywheafaf.ae/hls/spacetoon/index.m3u8
 #EXTINF:0,SpaceToon
 #EXTGRP:Kids
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:0,Rotana Kids
 #EXTGRP:Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
