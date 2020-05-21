@@ -64,10 +64,10 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
 https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
 #EXTINF:0,MBC 3 - TV
 #EXTGRP:Kids
-http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
 #EXTINF:0,SpaceToon - TV
 #EXTGRP:Kids
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 #EXTINF:0,SpaceToon
 #EXTGRP:Kids
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
