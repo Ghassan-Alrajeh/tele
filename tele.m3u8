@@ -38,6 +38,12 @@ http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:0,CBC Sofra
 #EXTGRP:ArabicTV
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/03.m3u8
+#EXTINF:0,MBC 1
+#EXTGRP:ArabicTV
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+#EXTINF:0,MBC Drama
+#EXTGRP:ArabicTV
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 #EXTINF:0,Nat Geographic
 #EXTGRP:Educational TV
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/03.m3u8
@@ -59,18 +65,24 @@ https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
 #EXTINF:0,kw tv kids
 #EXTGRP:Kids
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
-#EXTINF:0,MBC 3
+#EXTINF:0,MBC 3 - TV 03
 #EXTGRP:Kids
 https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:0,MBC 3 - TV
+#EXTINF:0,MBC 3 - TV 02
 #EXTGRP:Kids
-http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+#EXTINF:0,MBC 3 - TV 01
+#EXTGRP:Kids
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
 #EXTINF:0,SpaceToon - TV
 #EXTGRP:Kids
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:0,SpaceToon
 #EXTGRP:Kids
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF:0,Majid
+#EXTGRP:Kids
+http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u
 #EXTINF:0,Rotana Kids
 #EXTGRP:Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
