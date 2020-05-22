@@ -14,6 +14,12 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic1
 #EXTINF:0,Risala
 #EXTGRP:Islamic
 https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
+#EXTINF:0,Abu Dhabi Drama
+#EXTGRP:ArabicTV
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:0,Abu Dhabi
+#EXTGRP:ArabicTV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:0,Syria Drama
 #EXTGRP:ArabicTV
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/03.m3u8
