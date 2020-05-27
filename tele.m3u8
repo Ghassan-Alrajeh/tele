@@ -25,7 +25,7 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:0,Syria Drama
 #EXTGRP:ArabicTV
-http://livecdnh2.tvanywhere.ae/hls/syria_drama/03.m3u8
+http://livecdnh2.tvanywhere.ae/hls/syria_drama/index.m3u8
 #EXTINF:0,Syria Satellite Channel
 #EXTGRP:ArabicTV
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
@@ -49,7 +49,7 @@ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunk
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:0,CBC Sofra
 #EXTGRP:ArabicTV
-http://livecdnh2.tvanywhere.ae/hls/cbc_sof/03.m3u8
+http://livecdnh2.tvanywhere.ae/hls/cbc_sof/index.m3u8
 #EXTINF:0,MBC 1
 #EXTGRP:ArabicTV
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
@@ -62,18 +62,9 @@ http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/03.m3u8
 #EXTINF:0,National Geographic Abu Dhabi
 #EXTGRP:Educational TV
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
-#EXTINF:0,EBA ilk-okul TV
-#EXTGRP:Educational TV
-https://tv-e-okul00.live.trt.com.tr/master.m3u8
-#EXTINF:0,EBA Orta-okul TV
-#EXTGRP:Educational TV
-https://tv-e-okul01.live.trt.com.tr/master.m3u8
-#EXTINF:0,EBA Lise TV
-#EXTGRP:Educational TV
-https://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:0,TRT çocuk
 #EXTGRP:Kids
-https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/chunklist_b2064000.m3u8
 #EXTINF:0,kw tv kids
 #EXTGRP:Kids
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
@@ -91,10 +82,10 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:0,SpaceToon
 #EXTGRP:Kids
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0,Majid
 #EXTGRP:Kids
-http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u
+http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?majid
 #EXTINF:0,Rotana Kids
 #EXTGRP:Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
@@ -146,9 +137,12 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:0,CNN Turk 750
 #EXTGRP:Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
-#EXTINF:0,NTV
+#EXTINF:0,NTV 360P
 #EXTGRP:Turk
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:0,NTV 720P
+#EXTGRP:Turk
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
@@ -160,31 +154,37 @@ https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/chunklist_b3128000.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:0,TRT Haber HD
 #EXTGRP:Turk
-https://tv-trthaber.live.trt.com.tr/master.m3u8
+https://cdnlive.blutv.com/contentserver/v2/distributions/trt_haber_sd/content/hls3/edge,-12h/b54b14fbbaceb82af6cbb26d54c118a9_39/4a7735c83e4d2c9bd35e574d1114e810_38/m.m3u8
+#EXTINF:0,Bloomberght
+#EXTGRP:Turk
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:0,Show
+#EXTGRP:Turk
+https://cdnlive.blutv.com/contentserver/v2/distributions/show_tv_v2/content/hls3/edge,-12h/d3a0b44efae1ab349a0a5ccc1164b3fe_39/9d8984238941ad0ea37d5bc7d5c72dc5_38/m.m3u8
+#EXTINF:0,KANAL D
+#EXTGRP:Turk
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:0,a2
+#EXTGRP:Turk
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:0,TRT bir
+#EXTGRP:Turk
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,TRT Arabi
+#EXTGRP:Turk
+https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_hd.smil/chunklist_b1314000.m3u8
 #EXTINF:0,TRT Arapça
 #EXTGRP:Turk
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:0,TRT Arabi
-#EXTGRP:Turk
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:0,TRT bir
-#EXTGRP:Turk
-https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:0,TRT iki
-#EXTGRP:Turk
-https://tv-trt2-ts.live.trt.com.tr/master.m3u8
-#EXTINF:0,TRT Turk
-#EXTGRP:Turk
-https://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:Turk
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_hd.smil/chunklist_b564000.m3u8
 #EXTINF:0,TRT Belgesel
 #EXTGRP:Turk
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+https://cdnlive.blutv.com/contentserver/v2/distributions/trt_belgeser/content/hls3/edge,-12h/8ce34d152619795b57d57efbb7a8d9fa_39/672d57b01c90dd9c607dee882ae85a66_38/m.m3u8
 #EXTINF:0,TRT Spor
 #EXTGRP:Turk
-https://tv-trtspor1.live.trt.com.tr/master.m3u8
-#EXTINF:0,TRT Spor2
+https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_hd.smil/chunklist_b564000.m3u8
+#EXTINF:0,A Spor
 #EXTGRP:Turk
-https://tv-trtspor2.live.trt.com.tr/master.m3u8
+https://cdnlive.blutv.com/contentserver/v2/distributions/spor/content/hls3/edge,-12h/d9b2a06da16c510b54001a6d30b4142f_39/3133555981347f6538c72c4cf0aabc8b_38/m.m3u8
