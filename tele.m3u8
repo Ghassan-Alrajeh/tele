@@ -104,9 +104,6 @@ https://rt-arab.secure.footprint.net/1104.m3u8
 #EXTINF:0,DW Arabia
 #EXTGRP:News
 https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:0,CNBC Arabiya
-#EXTGRP:News
-https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:0,Al Arabiya
 #EXTGRP:News
 https://shls-alarabiya-prod.shahid.net/alarabiya-prod.m3u8
@@ -119,9 +116,6 @@ https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_ar
 #EXTINF:0,BBC Arabic (Backup)
 #EXTGRP:News
 http://livecdnh2.tvanywhere.ae/hls/bbc_ar/03.m3u8
-#EXTINF:0,Aljazeera En
-#EXTGRP:News
-https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:0,Aljazeera Live 1
 #EXTGRP:News
 https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
@@ -134,9 +128,30 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
 #EXTINF:0,Halap Today
 #EXTGRP:News
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1594346692
-#EXTINF:0,Sky News Arabia
+#EXTINF:0,Bloomberg TV
+#EXTGRP:Business
+http://ott-cdn.ucom.am/s27/index.m3u8
+#EXTINF:0,CNBC Arabiya
+#EXTGRP:Business
+https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+#EXTINF:0,CNBC
+#EXTGRP:Business
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0,Aljazeera En
 #EXTGRP:News
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
+https://live-hls-web-aje.getaj.net/AJE/05.m3u8
+#EXTINF:0,CNN
+#EXTGRP:News int
+http://92.43.140.249/s27/04.m3u8
+#EXTINF:0,BBC UK
+#EXTGRP:News int
+http://51.52.156.22:8888/http/004
+#EXTINF:0,BBC World News
+#EXTGRP:News int
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0,CNN
+#EXTGRP:News int
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:0,CNN Turk 1000
 #EXTGRP:Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
