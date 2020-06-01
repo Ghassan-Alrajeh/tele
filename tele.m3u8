@@ -138,13 +138,13 @@ https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTGRP:Business
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:0,Aljazeera En
-#EXTGRP:News
+#EXTGRP:News int
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:0,02 - CNN
 #EXTGRP:News int
 http://92.43.140.249/s27/04.m3u8
 #EXTINF:0,01 - CNN
-#EXTGRP:Business
+#EXTGRP:News int
 http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:0,BBC UK
 #EXTGRP:News int
