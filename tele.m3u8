@@ -83,6 +83,9 @@ http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:0,SpaceToon
 #EXTGRP:Kids
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0,SpaceToon Shahid
+#EXTGRP:Kids
+https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8
 #EXTINF:0,Majid
 #EXTGRP:Kids
 http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?majid
@@ -106,7 +109,10 @@ https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:0,Al Arabiya
 #EXTGRP:News
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://shls-alarabiya-prod.shahid.net/alarabiya-prod.m3u8
+#EXTINF:0,Al Hadath
+#EXTGRP:News
+https://shls-hadath-prod.shahid.net/hadath-prod.m3u8
 #EXTINF:0,BBC Arabic
 #EXTGRP:News
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
