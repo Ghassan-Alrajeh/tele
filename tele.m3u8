@@ -130,7 +130,10 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1594346692
 #EXTINF:0,Bloomberg TV
 #EXTGRP:Business
-https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:0,Bloomberg TV (sd)
+#EXTGRP:Business
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 #EXTINF:0,CNBC Arabiya
 #EXTGRP:Business
 https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
@@ -145,7 +148,7 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:0,CNN (Backup)
 #EXTGRP:News int
-http://92.43.140.249/s27/04.m3u8
+http://s3linkgapp.net:25461/dlvHZ4ocfx/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16849
 #EXTINF:0,BBC UK
 #EXTGRP:News int
 http://51.52.156.22:8888/http/004
