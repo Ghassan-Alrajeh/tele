@@ -148,7 +148,7 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:0,CNN (Backup)
 #EXTGRP:News int
-http://s3linkgapp.net:25461/dlvHZ4ocfx/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16849
+http://92.43.140.249/s27/04.m3u8
 #EXTINF:0,BBC UK
 #EXTGRP:News int
 http://51.52.156.22:8888/http/004
