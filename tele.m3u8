@@ -191,6 +191,9 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:0,a2
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:0,TV8
+#EXTGRP:Turk
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:0,TRT bir
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b2064000.m3u8
