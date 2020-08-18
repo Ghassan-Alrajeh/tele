@@ -25,7 +25,7 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:0,Syria Drama
 #EXTGRP:ArabicTV
-http://livecdnh2.tvanywhere.ae/hls/syria_drama/index.m3u8
+https://mysat-live.ercdn.net/syriadrama/syriadrama.m3u8
 #EXTINF:0,Syria Satellite Channel
 #EXTGRP:ArabicTV
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
@@ -37,10 +37,16 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:0,Sama TV
 #EXTGRP:ArabicTV
-https://svs.itworkscdn.net/samatvlive/sama.smil/playlist.m3u8
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:0,Futuretv
 #EXTGRP:ArabicTV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+#EXTINF:0,LBC
+#EXTGRP:ArabicTV
+https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
+#EXTINF:0,OTV
+#EXTGRP:ArabicTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 #EXTINF:0,Sama Dubai
 #EXTGRP:ArabicTV
 https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
@@ -49,16 +55,13 @@ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunk
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:0,CBC Sofra
 #EXTGRP:ArabicTV
-http://livecdnh2.tvanywhere.ae/hls/cbc_sof/index.m3u8
+http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2356.m3u8
 #EXTINF:0,MBC 1
 #EXTGRP:ArabicTV
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:0,MBC Drama
 #EXTGRP:ArabicTV
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
-#EXTINF:0,Nat Geographic
-#EXTGRP:Educational TV
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/03.m3u8
 #EXTINF:0,National Geographic Abu Dhabi
 #EXTGRP:Educational TV
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
@@ -77,9 +80,6 @@ https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
 #EXTINF:0,MBC 3 - TV 01
 #EXTGRP:Kids
 http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
-#EXTINF:0,SpaceToon - TV
-#EXTGRP:Kids
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:0,SpaceToon
 #EXTGRP:Kids
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -97,7 +97,7 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 https://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic_hd
 #EXTINF:0,Aljazeera - JSC
 #EXTGRP:News
-https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:0,RT Arabic
 #EXTGRP:News
 https://rt-arab.secure.footprint.net/1104.m3u8
@@ -113,9 +113,6 @@ https://shls-hadath-prod.shahid.net/hadath-prod.m3u8
 #EXTINF:0,BBC Arabic
 #EXTGRP:News
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:0,BBC Arabic (Backup)
-#EXTGRP:News
-http://livecdnh2.tvanywhere.ae/hls/bbc_ar/03.m3u8
 #EXTINF:0,Aljazeera Live 1
 #EXTGRP:News
 https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
