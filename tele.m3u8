@@ -17,6 +17,9 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:0,Risala
 #EXTGRP:Islamic
 https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
+#EXTINF:0,Nor Dubai
+#EXTGRP:Islamic
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:0,Abu Dhabi Drama
 #EXTGRP:ArabicTV
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
@@ -32,9 +35,6 @@ http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
 #EXTINF:0,Dubai
 #EXTGRP:ArabicTV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
-#EXTINF:0,Nor Dubai
-#EXTGRP:ArabicTV
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:0,Sama TV
 #EXTGRP:ArabicTV
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
@@ -53,9 +53,6 @@ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunk
 #EXTINF:0,Syria tv
 #EXTGRP:ArabicTV
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0,CBC Sofra
-#EXTGRP:ArabicTV
-http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2356.m3u8
 #EXTINF:0,MBC 1
 #EXTGRP:ArabicTV
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
@@ -152,21 +149,12 @@ http://51.52.156.22:8888/http/004
 #EXTINF:0,BBC World News
 #EXTGRP:News int
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:0,CNN Turk 1000
-#EXTGRP:Turk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:0,CNN Turk 750
 #EXTGRP:Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 #EXTINF:0,NTV 360P
 #EXTGRP:Turk
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:0,NTV 720P
-#EXTGRP:Turk
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:0,360 TV
-#EXTGRP:Turk
-https://mn-nl.mncdn.com/360tv_live/smil:360tv_sd2.smil/playlist.m3u8
 #EXTINF:0,Star
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/blutv_star/smil:star_sd2.smil/playlist.m3u8
@@ -197,9 +185,6 @@ https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd2.smil/playlist.m3u8
 #EXTINF:0,TRT Arabi
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_sd2.smil/playlist.m3u8
-#EXTINF:0,TRT Arapça
-#EXTGRP:Turk
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd2.smil/playlist.m3u8
@@ -212,3 +197,12 @@ https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd2.smil/playlist.m3u8
 #EXTINF:0,A Spor
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd2.smil/playlist.m3u8
+#EXTINF:0,TRT Arapça
+#EXTGRP:Turk
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:0,NTV 720P
+#EXTGRP:Turk
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0,CNN Turk 1000
+#EXTGRP:Turk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
