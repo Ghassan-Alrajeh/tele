@@ -40,7 +40,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:0,Futuretv
 #EXTGRP:ArabicTV
-http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
 #EXTINF:0,LBC
 #EXTGRP:ArabicTV
 https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
