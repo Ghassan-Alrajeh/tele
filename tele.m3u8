@@ -64,7 +64,7 @@ https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:0,TRT çocuk
 #EXTGRP:Kids
-https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
 #EXTINF:0,kw tv kids
 #EXTGRP:Kids
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
@@ -157,49 +157,49 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
 #EXTINF:0,Star
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
 #EXTINF:0,FOX
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
 #EXTINF:0,TRT Haber HD
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
 #EXTINF:0,Bloomberght
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
 #EXTINF:0,Show
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 #EXTINF:0,KANAL D
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 #EXTINF:0,a2
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
 #EXTINF:0,atv
 #EXTGRP:Turk
 http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:0,TV8
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 #EXTINF:0,TRT bir
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
 #EXTINF:0,TRT Arabi
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_sd.smil/playlist.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd.smil/playlist.m3u8
 #EXTINF:0,TRT Belgesel
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/playlist.m3u8
 #EXTINF:0,TRT Spor
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/playlist.m3u8
 #EXTINF:0,A Spor
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/playlist.m3u8
 #EXTINF:0,TRT Arapça
 #EXTGRP:Turk
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
