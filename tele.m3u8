@@ -62,13 +62,13 @@ https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
 #EXTINF:0,kw tv kids
 #EXTGRP:Kids
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
-#EXTINF:0,MBC 3 - TV 03
-#EXTGRP:Kids
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
 #EXTINF:0,MBC 3 - TV 02
 #EXTGRP:Kids
-https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
 #EXTINF:0,MBC 3 - TV 01
+#EXTGRP:Kids
+http://channelsstream.xyz:8080/live/streeem/streeem/3.m3u8
+#EXTINF:0,MBC 3 - TV 03
 #EXTGRP:Kids
 http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
 #EXTINF:0,SpaceToon
@@ -209,9 +209,6 @@ http://channelsstream.xyz:8080/live/streeem/streeem/1.m3u8
 #EXTINF:0,MBC 2
 #EXTGRP:MBC Group
 http://channelsstream.xyz:8080/live/streeem/streeem/2.m3u8
-#EXTINF:0,MBC 3
-#EXTGRP:MBC Group
-http://channelsstream.xyz:8080/live/streeem/streeem/3.m3u8
 #EXTINF:0,MBC 4
 #EXTGRP:MBC Group
 http://channelsstream.xyz:8080/live/streeem/streeem/4.m3u8
@@ -227,6 +224,4 @@ http://channelsstream.xyz:8080/live/streeem/streeem/8.m3u8
 #EXTINF:0,MBC Drama
 #EXTGRP:MBC Group
 http://channelsstream.xyz:8080/live/streeem/streeem/10.m3u8
-#EXTINF:0,alfajr 2
-#EXTGRP:MBC Group
-http://channelsstream.xyz:8080/live/streeem/streeem/28.m3u8
+
