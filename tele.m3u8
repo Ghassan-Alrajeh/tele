@@ -118,7 +118,7 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1594346692
 #EXTINF:0,Bloomberg TV
 #EXTGRP:Business
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 #EXTINF:0,Bloomberg TV (sd)
 #EXTGRP:Business
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
@@ -128,6 +128,12 @@ https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:0,CNBC
 #EXTGRP:Business
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0,Bloomberg Quicktake
+#EXTGRP:Business
+https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
+#EXTINF:0,Bloomberg Quicktake 02
+#EXTGRP:Business
+https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 #EXTINF:0,Aljazeera En
 #EXTGRP:News int
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
