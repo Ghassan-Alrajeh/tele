@@ -53,6 +53,12 @@ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunk
 #EXTINF:0,Syria tv
 #EXTGRP:ArabicTV
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:0,Al Araby tv
+#EXTGRP:ArabicTV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+#EXTINF:0,Al Araby tv - Test
+#EXTGRP:ArabicTV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0,National Geographic Abu Dhabi
 #EXTGRP:Educational TV
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
