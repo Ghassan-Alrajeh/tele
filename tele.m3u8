@@ -73,7 +73,7 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
 https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
 #EXTINF:0,MBC 3 - TV 01
 #EXTGRP:Kids
-http://channelsstream.xyz:8080/live/streeem/streeem/3.m3u8
+http://posterboot.xyz:8080/live/streeem/streeem/3.m3u8
 #EXTINF:0,MBC 3 - TV 03
 #EXTGRP:Kids
 http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
@@ -220,23 +220,22 @@ https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:0,MBC 1
 #EXTGRP:MBC Group
-http://channelsstream.xyz:8080/live/streeem/streeem/1.m3u8
+http://posterboot.xyz:8080/live/streeem/streeem/1.m3u8
 #EXTINF:0,MBC 2
 #EXTGRP:MBC Group
-http://channelsstream.xyz:8080/live/streeem/streeem/2.m3u8
+http://posterboot.xyz:8080/live/streeem/streeem/2.m3u8
 #EXTINF:0,MBC 4
 #EXTGRP:MBC Group
-http://channelsstream.xyz:8080/live/streeem/streeem/4.m3u8
+http://posterboot.xyz:8080/live/streeem/streeem/4.m3u8
 #EXTINF:0,MBC 5
 #EXTGRP:MBC Group
-http://channelsstream.xyz:8080/live/streeem/streeem/5.m3u8
+http://posterboot.xyz:8080/live/streeem/streeem/5.m3u8
 #EXTINF:0,MBC Max
 #EXTGRP:MBC Group
-http://channelsstream.xyz:8080/live/streeem/streeem/7.m3u8
+http://posterboot.xyz:8080/live/streeem/streeem/7.m3u8
 #EXTINF:0,MBC Action
 #EXTGRP:MBC Group
-http://channelsstream.xyz:8080/live/streeem/streeem/8.m3u8
+http://posterboot.xyz:8080/live/streeem/streeem/8.m3u8
 #EXTINF:0,MBC Drama
 #EXTGRP:MBC Group
-http://channelsstream.xyz:8080/live/streeem/streeem/10.m3u8
-
+http://posterboot.xyz:8080/live/streeem/streeem/10.m3u8
