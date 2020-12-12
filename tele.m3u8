@@ -20,6 +20,9 @@ https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
 #EXTINF:0,Nor Dubai
 #EXTGRP:Islamic
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:0,Noor Al-Sham
+#EXTGRP:Islamic
+http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
 #EXTINF:0,Abu Dhabi Drama
 #EXTGRP:ArabicTV
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
@@ -28,16 +31,28 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:0,Syria Drama
 #EXTGRP:ArabicTV
-https://mysat-live.ercdn.net/syriadrama/syriadrama.m3u8
+http://posterboot.xyz:8080/streeem/streeem/62.m3u8
 #EXTINF:0,Syria Satellite Channel
 #EXTGRP:ArabicTV
-http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
+http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
+#EXTINF:0,AR:SYR-LANA HD
+#EXTGRP:ArabicTV
+https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
+#EXTINF:0,AR:SYR-Lana Plus
+#EXTGRP:ArabicTV
+https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
+#EXTINF:0,alltv
+#EXTGRP:ArabicTV
+http://185.96.70.242:1935/live/alltv/playlist.m3u8
+#EXTINF:0,Syrian Education TV
+#EXTGRP:ArabicTV
+http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
 #EXTINF:0,Dubai
 #EXTGRP:ArabicTV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
 #EXTINF:0,Sama TV
 #EXTGRP:ArabicTV
-http://stream.sama-tv.net:8080/hls/samatv.m3u8
+http://posterboot.xyz:8080/streeem/streeem/58.m3u8
 #EXTINF:0,Futuretv
 #EXTGRP:ArabicTV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
@@ -55,9 +70,6 @@ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunk
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:0,Al Araby tv
 #EXTGRP:ArabicTV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
-#EXTINF:0,Al Araby tv - Test
-#EXTGRP:ArabicTV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0,National Geographic Abu Dhabi
 #EXTGRP:Educational TV
@@ -68,15 +80,15 @@ https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
 #EXTINF:0,kw tv kids
 #EXTGRP:Kids
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
-#EXTINF:0,MBC 3 - TV 02
+#EXTINF:0,MBC 3 - eur shahid
 #EXTGRP:Kids
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:0,MBC 3 - TV 01
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_2.m3u8
+#EXTINF:0,MBC 3 - streem
 #EXTGRP:Kids
 http://posterboot.xyz:8080/live/streeem/streeem/3.m3u8
-#EXTINF:0,MBC 3 - TV 03
+#EXTINF:0,MBC 3 - shahid
 #EXTGRP:Kids
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
 #EXTINF:0,SpaceToon
 #EXTGRP:Kids
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -91,10 +103,16 @@ http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?majid
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:0,Aljazeera - elahmad
 #EXTGRP:News
-https://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic_hd
-#EXTINF:0,Aljazeera - JSC
+https://www.elahmad.com/tv/m3u8/aljazeera.m3u8
+#EXTINF:0,AL JAZEERA
 #EXTGRP:News
-https://live-hls-web-aja.getaj.net/AJA/06.m3u8
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0,AL JAZEERA MUBASHER HD
+#EXTGRP:News
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:0,ALJazeera الجزيرة الوثائقية
+#EXTGRP:News
+https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:0,RT Arabic
 #EXTGRP:News
 https://rt-arab.secure.footprint.net/1104.m3u8
@@ -239,3 +257,9 @@ http://posterboot.xyz:8080/live/streeem/streeem/8.m3u8
 #EXTINF:0,MBC Drama
 #EXTGRP:MBC Group
 http://posterboot.xyz:8080/live/streeem/streeem/10.m3u8
+#EXTINF:0,mtv
+#EXTGRP:MBC Group
+http://posterboot.xyz:8080/live/streeem/streeem/80.m3u8
+#EXTINF:0,jadeed
+#EXTGRP:MBC Group
+http://posterboot.xyz:8080/live/streeem/streeem/83.m3u8
