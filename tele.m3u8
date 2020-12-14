@@ -29,9 +29,6 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:0,Abu Dhabi
 #EXTGRP:ArabicTV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:0,Syria Drama
-#EXTGRP:ArabicTV
-http://posterboot.xyz:8080/streeem/streeem/62.m3u8
 #EXTINF:0,Syria Satellite Channel
 #EXTGRP:ArabicTV
 http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
@@ -41,18 +38,12 @@ https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 #EXTINF:0,AR:SYR-Lana Plus
 #EXTGRP:ArabicTV
 https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
-#EXTINF:0,alltv
-#EXTGRP:ArabicTV
-http://185.96.70.242:1935/live/alltv/playlist.m3u8
 #EXTINF:0,Syrian Education TV
 #EXTGRP:ArabicTV
 http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
 #EXTINF:0,Dubai
 #EXTGRP:ArabicTV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
-#EXTINF:0,Sama TV
-#EXTGRP:ArabicTV
-http://posterboot.xyz:8080/streeem/streeem/58.m3u8
 #EXTINF:0,Futuretv
 #EXTGRP:ArabicTV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
@@ -205,7 +196,7 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
 #EXTINF:0,atv
 #EXTGRP:Turk
-http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+https://stream.personamedia.tv/atvhls?fmt=hls
 #EXTINF:0,TV8
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
