@@ -85,7 +85,7 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_2.m3u8
 #EXTINF:0,MBC 3 - streem
 #EXTGRP:Kids
-http://posterboot.xyz:8080/live/streeem/streeem/3.m3u8
+http://144.76.226.29:8080/streeem/streeem/128
 #EXTINF:0,MBC 3 - shahid
 #EXTGRP:Kids
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
@@ -232,25 +232,25 @@ https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:0,MBC 1
 #EXTGRP:mix
-http://posterboot.xyz:8080/live/streeem/streeem/1.m3u8
+http://144.76.226.29:8080/streeem/streeem/126
 #EXTINF:0,MBC 2
 #EXTGRP:mix
-http://posterboot.xyz:8080/live/streeem/streeem/2.m3u8
+http://144.76.226.29:8080/streeem/streeem/127
 #EXTINF:0,MBC 4
 #EXTGRP:mix
-http://posterboot.xyz:8080/live/streeem/streeem/4.m3u8
+http://144.76.226.29:8080/streeem/streeem/129
 #EXTINF:0,MBC 5
 #EXTGRP:mix
-http://posterboot.xyz:8080/live/streeem/streeem/5.m3u8
+http://144.76.226.29:8080/streeem/streeem/130
 #EXTINF:0,MBC Max
 #EXTGRP:mix
-http://posterboot.xyz:8080/live/streeem/streeem/7.m3u8
+http://144.76.226.29:8080/streeem/streeem/133
 #EXTINF:0,MBC Action
 #EXTGRP:mix
-http://posterboot.xyz:8080/live/streeem/streeem/8.m3u8
+http://144.76.226.29:8080/streeem/streeem/134
 #EXTINF:0,MBC Drama
 #EXTGRP:mix
-http://posterboot.xyz:8080/live/streeem/streeem/10.m3u8
+http://144.76.226.29:8080/streeem/streeem/135
 #EXTINF:0,راديو صوت الشباب
 #EXTGRP:mix
 http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8?airmaxtv.m3u8
