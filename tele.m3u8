@@ -82,19 +82,19 @@ https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
 #EXTINF:0,MBC 3 - eur shahid
 #EXTGRP:Kids
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_2.m3u8
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_6.m3u8
 #EXTINF:0,MBC 3 - streem
 #EXTGRP:Kids
 http://138.201.33.161:8080/live/rgzfzfdh/zghzh/3.m3u8
 #EXTINF:0,MBC 3 - shahid
 #EXTGRP:Kids
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8
 #EXTINF:0,SpaceToon
 #EXTGRP:Kids
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0,SpaceToon Shahid
 #EXTGRP:Kids
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_6.m3u8
 #EXTINF:0,Majid
 #EXTGRP:Kids
 http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?majid
@@ -251,6 +251,24 @@ http://138.201.33.161:8080/rgzfzfdh/zghzh/9
 #EXTINF:0,MBC Drama
 #EXTGRP:mix
 http://138.201.33.161:8080/rgzfzfdh/zghzh/10
+#EXTINF:0,MBC 1 - shahid
+#EXTGRP:mix
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_6.m3u8
+#EXTINF:0,MBC 2 - shahid
+#EXTGRP:mix
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_6.m3u8
+#EXTINF:0,MBC actn - shahid
+#EXTGRP:mix
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_6.m3u8
+#EXTINF:0,MBC drama - shahid
+#EXTGRP:mix
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_6.m3u8
+#EXTINF:0,Rotana drama - shahid
+#EXTGRP:mix
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_6.m3u8
+#EXTINF:0,MBC drama + - shahid
+#EXTGRP:mix
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_6.m3u8
 #EXTINF:0,راديو صوت الشباب
 #EXTGRP:mix
 http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8?airmaxtv.m3u8
