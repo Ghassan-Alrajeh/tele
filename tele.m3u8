@@ -296,3 +296,9 @@ http://audiostreaming.itworkscdn.com:9066/;stream.mp3
 #EXTINF:0,ممونت كارلو FM
 #EXTGRP:mix
 http://live02.mc-doualiya.com/mc-doualiya.mp3
+#EXTINF:0,bm
+#EXTGRP:_
+http://aromaiptv.org:80/movie/ghassan1990/G05315192556G/233206.mkv
+#EXTINF:0,ar
+#EXTGRP:_1
+http://aromaiptv.org:80/movie/ghassan1990/G05315192556G/13689.mkv
