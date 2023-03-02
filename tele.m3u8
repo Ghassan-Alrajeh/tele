@@ -1,73 +1,40 @@
 #EXTM3U
 #EXTINF:0,Saudisunnah
 #EXTGRP:Islamic
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_250000=3-mp4a_41200=1.m3u8
-#EXTINF:0,Qutami Quran
-#EXTGRP:Islamic
-http://ayat.live.net.sa:1935/live/qotami/playlist.m3u8
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8?&amp;site=watcharab.com
 #EXTINF:0,Quran Kareem
 #EXTGRP:Islamic
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8?&amp;site=watcharab.com
 #EXTINF:0,Iqraa
 #EXTGRP:Islamic
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic1
+https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 #EXTINF:0,Sharjah TV
 #EXTGRP:Islamic
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:0,Risala
 #EXTGRP:Islamic
-https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
 #EXTINF:0,Nor Dubai
 #EXTGRP:Islamic
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:0,Noor Al-Sham
 #EXTGRP:Islamic
-http://82.137.248.16:1935/Nour/stream10112020/chunklist.m3u8
-#EXTINF:0,Ahl-Alquran TV
-#EXTGRP:Islamic
-https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8?airmaxtv.m3u8
-#EXTINF:0,Abu Dhabi Drama
-#EXTGRP:ArabicTV
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+http://vod.ortas.sy:1935/oLive/nour05042022/chunklist_w947580381.m3u8
 #EXTINF:0,Abu Dhabi
 #EXTGRP:ArabicTV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:0,Syria Satellite Channel
-#EXTGRP:ArabicTV
-http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
-#EXTINF:0,AR:SYR-LANA HD
-#EXTGRP:ArabicTV
-https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
-#EXTINF:0,AR:SYR-Lana Plus
-#EXTGRP:ArabicTV
-https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
-#EXTINF:0,Syrian Education TV
-#EXTGRP:ArabicTV
-http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
 #EXTINF:0,Dubai
 #EXTGRP:ArabicTV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
-#EXTINF:0,Futuretv
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0,MTV
 #EXTGRP:ArabicTV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
-#EXTINF:0,LBC
-#EXTGRP:ArabicTV
-https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
-#EXTINF:0,OTV
-#EXTGRP:ArabicTV
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+https://1537084837.rsc.cdn77.org/1537084837/tracks-v2a1/mono.m3u8
 #EXTINF:0,Sama Dubai
 #EXTGRP:ArabicTV
-https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u
 #EXTINF:0,Syria tv
 #EXTGRP:ArabicTV
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0,Syria Drama
-#EXTGRP:ArabicTV
-http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
-#EXTINF:0,Sama Tv
-#EXTGRP:ArabicTV
-http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:0,Al Araby tv
 #EXTGRP:ArabicTV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
@@ -76,16 +43,10 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:0,TRT çocuk
 #EXTGRP:Kids
-https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
-#EXTINF:0,kw tv kids
-#EXTGRP:Kids
-https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:0,MBC 3 - eur shahid
 #EXTGRP:Kids
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_6.m3u8
-#EXTINF:0,MBC 3 - streem
-#EXTGRP:Kids
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/3.m3u8
 #EXTINF:0,MBC 3 - shahid
 #EXTGRP:Kids
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8
@@ -95,39 +56,33 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0,SpaceToon Shahid
 #EXTGRP:Kids
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_6.m3u8
-#EXTINF:0,Majid
-#EXTGRP:Kids
-http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?majid
-#EXTINF:0,Rotana Kids
-#EXTGRP:Kids
-https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
-#EXTINF:0,Aljazeera - elahmad
+#EXTINF:0,Sky News Arabia
 #EXTGRP:News
-https://www.elahmad.com/tv/m3u8/aljazeera.m3u8
+https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:0,AL JAZEERA
 #EXTGRP:News
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0,AL JAZEERA EN
+#EXTGRP:News
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0,AL JAZEERA MUBASHER HD
 #EXTGRP:News
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:0,ALJazeera الجزيرة الوثائقية
 #EXTGRP:News
-https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:0,RT Arabic
 #EXTGRP:News
-https://rt-arab.secure.footprint.net/1104.m3u8?airmaxtv.m3u8
+https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
 #EXTINF:0,DW Arabia
 #EXTGRP:News
-http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?airmaxtv.m3u8?v=
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:0,Al Arabiya
 #EXTGRP:News
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:0,Al Hadath
 #EXTGRP:News
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:0,BBC Arabic
-#EXTGRP:News
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0,Aljazeera Live 1
 #EXTGRP:News
 https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
@@ -137,165 +92,78 @@ https://live-hls-web-ajm.getaj.net/AJM/04.m3u8
 #EXTINF:0,Orient News
 #EXTGRP:News
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
-#EXTINF:0,Halap Today
-#EXTGRP:News
-http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1594346692
-#EXTINF:0,Bloomberg TV
-#EXTGRP:Business
-https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:0,Bloomberg TV (sd)
-#EXTGRP:Business
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
-#EXTINF:0,CNBC Arabiya
-#EXTGRP:Business
-https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
-#EXTINF:0,CNBC
-#EXTGRP:Business
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:0,Bloomberg Quicktake
-#EXTGRP:Business
-https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
-#EXTINF:0,Bloomberg Quicktake 02
-#EXTGRP:Business
-https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-#EXTINF:0,Aljazeera En
-#EXTGRP:News int
-https://live-hls-web-aje.getaj.net/AJE/05.m3u8
-#EXTINF:0,BBC UK
-#EXTGRP:News int
-http://51.52.156.22:8888/http/004
 #EXTINF:0,BBC World News
 #EXTGRP:News int
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0,CNN Turk 750
 #EXTGRP:Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
-#EXTINF:0,NTV 360P
-#EXTGRP:Turk
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:0,Haber Turk
-#EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
 #EXTINF:0,Star
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
-#EXTINF:0,FOX
-#EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0,TRT Haber HD
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0,Bloomberght
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
-#EXTINF:0,Show
-#EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
-#EXTINF:0,KANAL D
-#EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
-#EXTINF:0,a2
-#EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
-#EXTINF:0,atv
-#EXTGRP:Turk
-https://stream.personamedia.tv/atvhls?fmt=hls
-#EXTINF:0,TV8
-#EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:0,TRT bir
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Arabi
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_sd.smil/playlist.m3u8
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd.smil/playlist.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Belgesel
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/playlist.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Spor
 #EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/playlist.m3u8
-#EXTINF:0,A Spor
-#EXTGRP:Turk
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/playlist.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Arapça
 #EXTGRP:Turk
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:0,NTV 720P
-#EXTGRP:Turk
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:0,CNN Turk 1000
 #EXTGRP:Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:0,Dubai one
+#EXTGRP:mix
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:0,MBC 1
 #EXTGRP:mix
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/1.m3u8
-#EXTINF:0,MBC 2
-#EXTGRP:mix
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/2.m3u8
-#EXTINF:0,MBC 4
-#EXTGRP:mix
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/4.m3u8
-#EXTINF:0,MBC 5
-#EXTGRP:mix
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/5.m3u8
-#EXTINF:0,MBC Max
-#EXTGRP:mix
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/8.m3u8
-#EXTINF:0,MBC Action
-#EXTGRP:mix
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/9.m3u8
-#EXTINF:0,MBC Drama
-#EXTGRP:mix
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/10.m3u8
-#EXTINF:0,MBC 1 - shahid
-#EXTGRP:mix
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1.m3u8
 #EXTINF:0,MBC 2 - shahid
 #EXTGRP:mix
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_0.m3u8
-#EXTINF:0,MBC actn - shahid
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:0,MBC 4 - shahid
 #EXTGRP:mix
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_4.m3u8
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:0,MBC drama - shahid
 #EXTGRP:mix
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_8.m3u8
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:0,Rotana drama - shahid
 #EXTGRP:mix
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_2.m3u8
+#EXTINF:0,Rotana cinama - shahid
+#EXTGRP:mix
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:0,MBC drama + - shahid
 #EXTGRP:mix
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_9.m3u8
 #EXTINF:0,راديو صوت الشباب
 #EXTGRP:mix
 http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8?airmaxtv.m3u8
-#EXTINF:0,راديو شام اف ام
-#EXTGRP:mix
-http://38.96.175.97:5980/;stream.mp3
-#EXTINF:,فرح اف ام
-#EXTGRP:mix
-http://radio.farah.fm:8015/;stream.mp3
-#EXTINF:0,ميلودي اف ام
-#EXTGRP:mix
-http://streaming.inet.sy:8000/melodyfm
 #EXTINF:0,العاصمة إف إم
 #EXTGRP:mix
 http://asima.out.airtime.pro:8000/asima_a
 #EXTINF:0,راديو دلتا
 #EXTGRP:mix
 http://s45.myradiostream.com:18408/;stream.mp3
-#EXTINF:0,BBC Arabic FM
-#EXTGRP:mix
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba
 #EXTINF:0,إذاعة النور FM
 #EXTGRP:mix
 http://audiostreaming.itworkscdn.com:9066/;stream.mp3
 #EXTINF:0,ممونت كارلو FM
 #EXTGRP:mix
 http://live02.mc-doualiya.com/mc-doualiya.mp3
-#EXTINF:0,ar
-#EXTGRP:_1
-https://s142.vidboo.org/6jmnwnqdw4azsalriwdah77hlnee4sgkwfwu6zhd3ivfwcfjugdhksbqazfa/v.mp4
