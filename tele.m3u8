@@ -7,28 +7,22 @@ http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8?&amp;site=watcharab.com
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8?&amp;site=watcharab.com
 #EXTINF:0,Iqraa
 #EXTGRP:Islamic
-https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:0,Sharjah TV
 #EXTGRP:Islamic
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:0,Risala
-#EXTGRP:Islamic
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
+# EXTINF:0,Risala
+# EXTGRP:Islamic
+# https://rotananet.hibridcdn.net/rotana/risalaint_abr/rotana/risala_1080p/chunks.m3u8
 #EXTINF:0,Nor Dubai
 #EXTGRP:Islamic
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:0,Noor Al-Sham
 #EXTGRP:Islamic
 http://vod.ortas.sy:1935/oLive/nour05042022/chunklist_w947580381.m3u8
-#EXTINF:0,Abu Dhabi
-#EXTGRP:ArabicTV
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:0,Dubai
 #EXTGRP:ArabicTV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0,MTV
-#EXTGRP:ArabicTV
-https://1537084837.rsc.cdn77.org/1537084837/tracks-v2a1/mono.m3u8
 #EXTINF:0,Sama Dubai
 #EXTGRP:ArabicTV
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u
@@ -44,27 +38,21 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:0,TRT çocuk
 #EXTGRP:Kids
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:0,MBC 3 - eur shahid
-#EXTGRP:Kids
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_6.m3u8
+# EXTINF:0,MBC 3 - eur shahid
+# EXTGRP:Kids
+# https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_6.m3u8
 #EXTINF:0,MBC 3 - shahid
 #EXTGRP:Kids
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8
 #EXTINF:0,SpaceToon
 #EXTGRP:Kids
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:0,SpaceToon Shahid
-#EXTGRP:Kids
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_6.m3u8
-#EXTINF:0,EBA İlkOkul
-#EXTGRP:Kids
-https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,EBA OrtaOkul
+# EXTINF:0,SpaceToon Shahid
+# EXTGRP:Kids
+# https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_6.m3u8
+#EXTINF:0,EBA TV
 #EXTGRP:Kids
 https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,EBA Lise
-#EXTGRP:Kids
-https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,Sky News Arabia
 #EXTGRP:News
 https://stream.skynewsarabia.com/hls/sna.m3u8
@@ -110,6 +98,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 #EXTINF:0,NTV 750
 #EXTGRP:Turk
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:0,haberturk
+#EXTGRP:Turk
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:0,Star
 #EXTGRP:Turk
 https://dogus-live.daioncdn.net/startv/startv.m3u8
@@ -152,12 +143,12 @@ https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m
 #EXTINF:0,MBC 2 - shahid
 #EXTGRP:mix
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:0,MBC 2 - freechannelsonly
+#EXTINF:0,MBC 2 - freechannelsonly1
+#EXTGRP:mix
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0&Referer=https://www.offlinefreechanelsonly.xyz/
+#EXTINF:0,MBC 2 - freechannelsonly2
 #EXTGRP:mix
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.offlinefreechanelsonly.xyz/
-#EXTINF:0,alnahar - freechannelsonly
-#EXTGRP:mix
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.offlinefreechanelsonly.xyz/
 #EXTINF:0,MBC 4 - shahid
 #EXTGRP:mix
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
@@ -179,12 +170,12 @@ http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:0,العاصمة إف إم
 #EXTGRP:mix
 http://asima.out.airtime.pro:8000/asima_a
-#EXTINF:0,راديو دلتا
-#EXTGRP:mix
-http://s45.myradiostream.com:18408/;stream.mp3
 #EXTINF:0,إذاعة النور FM
 #EXTGRP:mix
-http://audiostreaming.itworkscdn.com:9066/;stream.mp3
+https://svs.itworkscdn.net/alnourtvlive/alnourtv.smil/alnourtvpublish/alnourtv_480p/chunks.m3u8
 #EXTINF:0,ممونت كارلو FM
 #EXTGRP:mix
-http://live02.mc-doualiya.com/mc-doualiya.mp3
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0&Referer=https://www.mc-doualiya.com/
+#EXTINF:0,Rozana fm
+#EXTGRP:mix
+https://stream-158.zeno.fm/sq7y5y2z06duv?zs=gzPu9BfHSUS0lOeu4a9s4g
