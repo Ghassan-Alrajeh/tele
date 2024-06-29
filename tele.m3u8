@@ -20,7 +20,10 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist
 #EXTINF:0,Noor Al-Sham
 #EXTGRP:Islamic
 http://vod.ortas.sy:1935/oLive/nour05042022/chunklist_w947580381.m3u8
-#EXTINF:0,National Geographic Abu Dhabi
+#EXTINF:0,National Geographic Abu Dhabi 1
+#EXTGRP:Educational TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:0,National Geographic Abu Dhabi 2
 #EXTGRP:Educational TV
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:0,TRT çocuk
@@ -88,7 +91,7 @@ https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0,CNN Turk
 #EXTGRP:Turk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk
+https://ythls-v3.onrender.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:0,NTV 750
 #EXTGRP:Turk
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
@@ -125,6 +128,27 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0,tv8
 #EXTGRP:Turk
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=51gwvn4v9td6&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:0,beyaztv
+#EXTGRP:Turk
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u
+#EXTINF:0,kanal7
+#EXTGRP:Turk
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:0,Akvaryum
+#EXTGRP:test
+https://grandcentral.1plus1.video/vod/partner/viasat/202309/b6e3f3fe062376c0b25cce8a939e0b51ef70ebe3c873b632b339891c45b4bf35/95da7831dee63a583dbceef17167f9b5/1700826891?return_http=true
+#EXTINF:0,Dunya
+#EXTGRP:test
+https://grandcentral.1plus1.video/vod/partner/viasat/202308/5a3077a72a5b9eca55513f9e5485a3dc192682274d198e42d33eafb6dc6c229c/ad8e9f3b0d34c93d4bf46772e82b1c06/1700827166?return_http=true
+#EXTINF:0,Şelale
+#EXTGRP:test
+https://grandcentral.1plus1.video/vod/partner/viasat/202304/985acdefe277ffba5632721de3cc2f79208587a3b79d2fa033b1a7515355da6e/7154c16edb73d1a1ae47e78f00ba3b1e/1700827271?return_http=true
+#EXTINF:0,Deniz
+#EXTGRP:test
+https://grandcentral.1plus1.video/vod/partner/viasat/202309/5d92d64973b1d9a280046c50eb1390529027247504f9b155ce3810f3cb9900af/e671942cd8b66f57c528afa77ac8bb47/1700827296?return_http=true
+#EXTINF:0,CNN Turk
+#EXTGRP:Turk
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk
 #EXTINF:0,Dubai
 #EXTGRP:ArabicTV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
@@ -164,15 +188,51 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 #EXTINF:0,MBC drama + - shahid
 #EXTGRP:mix
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_9.m3u8
-#EXTINF:0,راديو صوت الشباب
-#EXTGRP:mix
-http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:0,العاصمة إف إم
 #EXTGRP:mix
 http://asima.out.airtime.pro:8000/asima_a
+#EXTINF:0,راديو صوت الشباب
+#EXTGRP:Radio
+http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:0,ممونت كارلو FM
-#EXTGRP:mix
+#EXTGRP:Radio
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0&Referer=https://www.mc-doualiya.com/
 #EXTINF:0,Rozana fm
-#EXTGRP:mix
+#EXTGRP:Radio
 https://stream-158.zeno.fm/sq7y5y2z06duv?zs=gzPu9BfHSUS0lOeu4a9s4g
+#EXTINF:0,dreamturknp
+#EXTGRP:Radio
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:0,powerturkTV
+#EXTGRP:Radio
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:0,pturkeniyiler
+#EXTGRP:Radio
+https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+#EXTINF:0,pturkslow
+#EXTGRP:Radio
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:0,kraltv
+#EXTGRP:Radio
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:0,kralpoptv
+#EXTGRP:Radio
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:0,MTV Biggest Pop
+#EXTGRP:Radio
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+#EXTINF:0,vevo Pop
+#EXTGRP:Radio
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+#EXTINF:0,tatlisestv
+#EXTGRP:Radio
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:0,NumberOne Türk
+#EXTGRP:Radio
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:0,NumberOne tv
+#EXTGRP:Radio
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:0,NumberOne ask
+#EXTGRP:Radio
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
