@@ -20,18 +20,6 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist
 #EXTINF:0,Noor Al-Sham
 #EXTGRP:Islamic
 http://vod.ortas.sy:1935/oLive/nour05042022/chunklist_w947580381.m3u8
-#EXTINF:0,Dubai
-#EXTGRP:ArabicTV
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0,Sama Dubai
-#EXTGRP:ArabicTV
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u
-#EXTINF:0,Syria tv
-#EXTGRP:ArabicTV
-http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0,Al Araby tv
-#EXTGRP:ArabicTV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0,National Geographic Abu Dhabi
 #EXTGRP:Educational TV
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
@@ -53,6 +41,12 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0,EBA TV
 #EXTGRP:Kids
 https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,Syria tv
+#EXTGRP:News
+http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:0,Al Araby tv
+#EXTGRP:News
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0,Sky News Arabia
 #EXTGRP:News
 https://stream.skynewsarabia.com/hls/sna.m3u8
@@ -92,9 +86,9 @@ https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News int
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:0,CNN Turk 750
+#EXTINF:0,CNN Turk
 #EXTGRP:Turk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk
 #EXTINF:0,NTV 750
 #EXTGRP:Turk
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
@@ -128,12 +122,15 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Arapça
 #EXTGRP:Turk
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:0,CNN Turk 1000
-#EXTGRP:Turk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:0,tv8
 #EXTGRP:Turk
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=51gwvn4v9td6&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:0,Dubai
+#EXTGRP:ArabicTV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0,Sama Dubai
+#EXTGRP:ArabicTV
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u
 #EXTINF:0,Dubai one
 #EXTGRP:mix
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
