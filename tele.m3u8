@@ -170,6 +170,9 @@ https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=51gwvn4v9td6&app=7ddc255a-ef47-
 #EXTINF:0,kanal7
 #EXTGRP:Turk
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:0,GRT gaziantep
+#EXTGRP:Turk
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
 #EXTINF:0,Dubai
 #EXTGRP:mix
 http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
