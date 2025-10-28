@@ -23,18 +23,18 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Kids",TRT çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/" group-title="Kids",MBC 3
-https://mbc3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/" group-title="Kids",MBC 3 USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:0 group-title="Kids",SpaceToon 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:0 group-title="Kids",EBA TV
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/" group-title="Kids",MBC 3
+https://mbc3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 #EXTINF:0 group-title="Kids",SpaceToon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0 group-title="Kids",SpaceToon Shahid
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:0 group-title="Kids",EBA TV
-https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="News",Syria tv
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:0 group-title="News",Al Araby tv
@@ -193,4 +193,5 @@ https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:0 group-title="Radio",DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+
 
