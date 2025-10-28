@@ -4,13 +4,11 @@ http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8?&amp;site=watcharab.com
 #EXTINF:0 group-title="Islamic",Quran Kareem
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8?&amp;site=watcharab.com
 #EXTINF:0 group-title="Islamic",Iqraa
-https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:0 group-title="Islamic",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:0 group-title="Islamic",Risala
-# https://rotananet.hibridcdn.net/rotana/risalaint_abr/rotana/risala_1080p/chunks.m3u8
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:0 group-title="Islamic",Nor Dubai
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/index.m3u8
 #EXTINF:0 group-title="Islamic",Noor Al-Sham
 http://vod.ortas.sy:1935/oLive/nour05042022/chunklist_w947580381.m3u8
 #EXTINF:0 group-title="Educational TV",asharq doc
@@ -37,12 +35,8 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:0 group-title="News",Syria tv
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0 group-title="News",Syria tv 2
-https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:0 group-title="News",Al Araby tv
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:0 group-title="News",Al Araby tv 2
-https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png" group-title="News",AL EKHBARIA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:0 group-title="News",Sky News Arabia
@@ -151,6 +145,22 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:0 group-title="mix 2",MBC movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:0 group-title="mix 2",Syria tv 2
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+#EXTINF:0 group-title="mix 2",Al Araby tv 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTINF:0 group-title="mix 2" tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",DUBAI ONE
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u?m3u8
+#EXTINF:0 group-title="mix 2" tvg-logo="https://i.ibb.co/jMsSmvg/dubainoor.png",DUBAI NOOR
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/index.m3u8
+#EXTINF:0 group-title="mix 2" tvg-logo="https://i.ibb.co/g4LTFCS/dubaisama.png",DUBAI SAMA
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/index.m3u8
+#EXTINF:0 group-title="mix 2" tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",QATAR TV
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:0 group-title="mix 2" tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png",QATAR TV 2
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTINF:0 group-title="mix 2" tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png",ABU DHABI
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:0 group-title="Radio",راديو صوت الشباب
 http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:0 group-title="Radio",Rozana fm
@@ -199,6 +209,7 @@ https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:0 group-title="Radio",DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+
 
 
 
