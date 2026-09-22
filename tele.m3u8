@@ -26,7 +26,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 #EXTINF:0 group-title="Kids",SpaceToon 1
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:0 group-title="Kids",EBA TV
-http://185.9.2.18/chid_376/index.m3u8
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/" group-title="Kids",MBC 3
 https://mbc3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 #EXTINF:0 group-title="Kids",SpaceToon
@@ -137,12 +137,12 @@ http://asima.out.airtime.pro:8000/asima_a
 https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=m67zo
 #EXTINF:0 group-title="mix 2" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg",ONE TV LBN
 https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=4c8RZ
-#EXTINF:0 group-title="mix 2",MBC movies thriller
-https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:0 group-title="mix 2",MBC movies
+http://185.9.2.18/chid_375/index.m3u8
 #EXTINF:0 group-title="mix 2",MBC movies action
-https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:0 group-title="mix 2",MBC aflam
-https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+http://185.9.2.18/chid_377/index.m3u8
 #EXTINF:0 group-title="mix 2",MBC movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:0 group-title="mix 2" tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC BOLLYWOOD
